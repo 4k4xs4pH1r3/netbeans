@@ -42,6 +42,10 @@ Apache NetBeans is an open source development environment, tooling platform, and
 
 **Note:** NetBeans license violation checks are managed via the [rat-exclusions.txt](https://github.com/apache/netbeans/blob/master/nbbuild/rat-exclusions.txt) file.
 
+### Download and Run NetBeans 9
+    
+    wget https://archive.apache.org/dist/incubator/netbeans/incubating-netbeans-java/incubating-9.0/incubating-netbeans-java-9.0-bin.zip && unzip incubating-netbeans-java-9.0-bin.zip && ./incubating-netbeans-java-9.0-bin/netbeans/bin/netbeans
+
 ### Building NetBeans
 
 Build with the default config (See the [cluster.config](https://github.com/apache/netbeans/blob/ab66c7fdfdcbf0bde67b96ddb075c83451cdd1a6/nbbuild/cluster.properties#L19) property.)
