@@ -45,6 +45,13 @@ Apache NetBeans is an open source development environment, tooling platform, and
 ### Download and Run NetBeans 9
     
     wget https://archive.apache.org/dist/incubator/netbeans/incubating-netbeans-java/incubating-9.0/incubating-netbeans-java-9.0-bin.zip && unzip incubating-netbeans-java-9.0-bin.zip && ./incubating-netbeans-java-9.0-bin/netbeans/bin/netbeans
+ 
+### Get Python plugins for NetBeans 9
+
+    wget http://plugins.netbeans.org/download/plugin/4221 && unzip 1448379005_Python81b_NBMS.zip
+#
+#
+#
 
 ### Building NetBeans
 
